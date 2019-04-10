@@ -1,0 +1,26 @@
+{
+  "name": "ReactGridWebpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/plugin-proposal-export-default-from": "^7.2.0",
+    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-react": "^7.0.0",
+    "@devexpress/dx-react-core": "^1.10.5",
+    "@devexpress/dx-react-grid": "^1.10.5",
+    "@devexpress/dx-react-grid-bootstrap4": "^1.10.5",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.5",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {}
+}
